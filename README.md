@@ -1,2 +1,3 @@
-# xiw483.github.io
- 
+## Raymond Wang
+
+Welcome to my site, I am a recent UC San Diego graduate and a data science researcher at the UCSD Design Lab. My research interest surrounds machine learning and data-driven application designs.
